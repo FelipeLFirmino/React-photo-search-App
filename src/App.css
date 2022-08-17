@@ -1,0 +1,18 @@
+*{
+  text-align: center;
+  color: #333;
+  background-color: rgb(187, 179, 179);
+}
+.App{
+  margin:0;
+  padding: 0; 
+}
+.container{
+  margin: 0 auto;
+  max-width:60% ;
+  padding: 1%;
+}
+.title{
+  font-size: 4.2rem;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
