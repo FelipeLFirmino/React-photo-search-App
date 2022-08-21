@@ -1,11 +1,15 @@
 *{
   text-align: center;
   color: #333;
+
+}
+html{
   background-color: rgb(187, 179, 179);
 }
 .App{
   margin:0;
   padding: 0; 
+    background-color: rgb(187, 179, 179);
 }
 .container{
   margin: 0 auto;

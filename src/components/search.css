@@ -34,11 +34,12 @@ transition:backgroud-color 250ms;
     background-color:white ;
     color: black;
 }
-.cards{
-display:grid;
-padding-top: 40px;
+.card{
+background-color: rgb(138, 129, 129)!important;
+margin-top: 40px;
 grid-template-columns: auto auto auto;
 align-items: center;
+font-family: fantasy;
 }
 
 #card-h1{

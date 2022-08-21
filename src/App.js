@@ -1,6 +1,7 @@
 import React from 'react';
 import Search from './components/searchphoto';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
